@@ -19,7 +19,6 @@ def listilla(lista):
 
     Returns:
         list: Lista numerica, cada valor tambien tiene a tu vieja.
-
     """
     nlista = []
     for n in lista:
