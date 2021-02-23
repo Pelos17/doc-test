@@ -15,7 +15,7 @@ def listilla(lista):
 
     Args:  
     **lista(list):** Lista numerica  
-    **nlista(list):** Lista numerica con tu vieja  
+    ** nlista(list):** Lista numerica con tu vieja  
 
     Returns:  
     list: Lista numerica, cada valor tambien tiene a tu vieja.  
